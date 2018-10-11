@@ -1,0 +1,11 @@
+C:\Users\Me\projects\UsersExample\UsersExample\bin\Debug\netcoreapp2.0\UsersExample.deps.json
+C:\Users\Me\projects\UsersExample\UsersExample\bin\Debug\netcoreapp2.0\UsersExample.runtimeconfig.json
+C:\Users\Me\projects\UsersExample\UsersExample\bin\Debug\netcoreapp2.0\UsersExample.runtimeconfig.dev.json
+C:\Users\Me\projects\UsersExample\UsersExample\bin\Debug\netcoreapp2.0\UsersExample.dll
+C:\Users\Me\projects\UsersExample\UsersExample\obj\Debug\netcoreapp2.0\UsersExample.csprojAssemblyReference.cache
+C:\Users\Me\projects\UsersExample\UsersExample\obj\Debug\netcoreapp2.0\UsersExample.csproj.CoreCompileInputs.cache
+C:\Users\Me\projects\UsersExample\UsersExample\obj\Debug\netcoreapp2.0\UsersExample.AssemblyInfoInputs.cache
+C:\Users\Me\projects\UsersExample\UsersExample\obj\Debug\netcoreapp2.0\UsersExample.AssemblyInfo.cs
+C:\Users\Me\projects\UsersExample\UsersExample\bin\Debug\netcoreapp2.0\UsersExample.pdb
+C:\Users\Me\projects\UsersExample\UsersExample\obj\Debug\netcoreapp2.0\UsersExample.dll
+C:\Users\Me\projects\UsersExample\UsersExample\obj\Debug\netcoreapp2.0\UsersExample.pdb
